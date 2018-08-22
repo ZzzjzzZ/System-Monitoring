@@ -58,4 +58,5 @@ Download this proj ```git clone https://github.com/CarryJzzZ/pithy-conky-colors.
 2. if there is wrong in displaying CN, please check whether the ```wqy/``` exists in  ```/usr/share/fonts/turetype/```
 3. you can change the ```voffset, go to, alignment, gap_x, gap_y, minimum_size, maximum_width```and so on to customize the layout.
 4. close conky: run ```top```and find ***conky id***, then run ```kill -9 conky-id```.
+5. if widget does not display on desktop, please modify the ```own_window_type normal``` to ```own_window_type override``` in file ```~/.conkycolors/conkyrc```
 
