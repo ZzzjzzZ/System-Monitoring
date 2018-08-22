@@ -49,7 +49,7 @@ Download this proj ```git clone https://github.com/CarryJzzZ/pithy-conky-colors.
 
 ***Attention***To run conky at startup, *go to System > Preferences > Startup Applications*, click *Add* and add the path to the conkyStart file (```/usr/local/share/conkycolors/bin/conkyStart```), and the widget will run 25s later the time you start the PC.
 
-![utils/results.png]
+![https://github.com/CarryJzzZ/pithy-conky-colors/blob/master/utils/results.png]
 
 
 ## Issues
